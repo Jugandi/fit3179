@@ -1,4 +1,4 @@
-name,id,nametype,recclass,mass (g),fall,year,reclat,reclong,GeoLocation
+name,id,nametype,recclass,mass (g),fall,year,latitude,longitude,GeoLocation
 Hoba,11890,Valid,"Iron, IVB",60000000,Found,1/01/1920 0:00,-19.58333,17.91667,"(-19.583330, 17.916670)"
 Cape York,5262,Valid,"Iron, IIIAB",58200000,Found,01/01/1818 12:00:00 AM,76.13333,-64.93333,"(76.133330, -64.933330)"
 Campo del Cielo,5247,Valid,"Iron, IAB-MG",50000000,Found,12/22/1575 12:00:00 AM,-27.46667,-60.58333,"(-27.466670, -60.583330)"
